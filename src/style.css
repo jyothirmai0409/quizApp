@@ -1,0 +1,10 @@
+*{
+  margin:0px;
+  padding : 0px;
+  box-sizing: border-box;
+}
+.app{
+  min-height: 98.5vh;
+  border : 8px solid grey;
+  margin : 10px
+}
